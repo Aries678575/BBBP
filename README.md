@@ -53,6 +53,7 @@ def smiles_to_fingerprint(smiles, radius=2, nbits=2048):
 | ------------------- | --------- | ------ | ---- | ------- |
 | non-penetrating (0) | 0.88      | 0.51   | 0.64 | 96      |
 | penetrating (1)     | 0.87      | 0.98   | 0.92 | 312     |
+
 **ROC curve**
 ![ROC curve](<file:///C:/Users/13913/Desktop/.ipynb_checkpoints/BBBP_figures/roc_curve.png>)
 
