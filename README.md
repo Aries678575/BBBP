@@ -21,6 +21,7 @@ BBBP(Blood-Brain Barrier Penetration) from [DeepChem](https://deepchem.io/). [^4
 | name   | compound name                        |
 | p_np   | 1=penetrate BBB, 0=does not          |
 | smiles | molecular structure as SMILES string |
+
 There are 2050 molecules in total, of which 11 invalid SMILES were removed. Among the 2039 molecules left, 1567 (76.4%) are positive, 483 (23.6%) are negative, which present an imbalanced class distribution.
 
 ---
